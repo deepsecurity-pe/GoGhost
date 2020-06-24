@@ -17,7 +17,7 @@ GoGhost is a High Performance, lightweight, portable Open Source tool for mass S
 
 ## Installation
 
-GoGhost uses native Golang librarys so the line above would be just fine:
+GoGhost uses native Golang libraries so the line above would be fine:
 
 ```
 go build GoGhost.go
