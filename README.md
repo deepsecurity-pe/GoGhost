@@ -1,13 +1,4 @@
-```
-     ________         ________.__                    __   
-    /  _____/  ____  /  _____/|  |__   ____  _______/  |_ 
-   /   \  ___ /  _ \/   \  ___|  |  \ /  _ \/  ___/\   __\
-   \    \_\  (  <_> )    \_\  \   Y  (  <_> )___ \  |  |  
-    \______  /\____/ \______  /___|  /\____/____  > |__|  
-            \/               \/     \/           \/        
-
- ```
-                                                
+                                               
 # GoGhost
 
 GoGhost is a High Performance, lightweight, portable Open Source tool for mass SMBGhost Scan.
@@ -17,13 +8,13 @@ GoGhost is a High Performance, lightweight, portable Open Source tool for mass S
 
 ## Installation
 
-GoGhost uses native Golang libraries so the line above would be fine:
+You can download [Windows Binary](https://github.com/deepsecurity-pe/GoGhost/blob/master/GoGhost_win_amd64.exe) or [Linux Binary](https://github.com/deepsecurity-pe/GoGhost/blob/master/GoGhost_linux_amd64). Alternatively, GoGhost uses native Golang libraries so the line above would be fine to compile it:
 
 ```
 go build GoGhost.go
 ```    
 
-## Options
+## Usage Options
 ### `-iL [FILE]`
 By using the -iL option you're able to specify a list file with CIDRs in file.
 
