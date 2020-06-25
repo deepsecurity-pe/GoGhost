@@ -21,10 +21,10 @@ GoGhost Scanned 25,000 IP addresses in less than 3 seconds, NMAP took more than 
 
 ![NMAP vs GoGhost](https://github.com/deepsecurity-pe/GoGhost/blob/master/NMAP_vs_GoGhost.jpg)
 
-### `-iL [FILE]`
+#### `-iL [FILE]`
 By using the -iL option you're able to specify a list file with CIDRs in file.
 
-### `-iR [CIDR]`
+#### `-iR [CIDR]`
 By using the -iR option you're able to specify an IP Range.
 
 ## False Positive & False Negative
