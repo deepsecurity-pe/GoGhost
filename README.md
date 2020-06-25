@@ -38,4 +38,4 @@ Not Vulnerable => Does not has compression
 Vulnerable => LZNT1 compression on SMB.
 
 ## Disclaimer
-This tool was coded to measure the impact of SMBGhost in [Latin America](https://deepsecurity.pe/blog) and Deepsecurity is not responsible for the use of this tool. 
+This tool was coded to measure the impact of SMBGhost in [Latin America](https://deepsecurity.pe/analisis-de-smbghost-en-latinoamerica/) and Deepsecurity is not responsible for the use of this tool. 
