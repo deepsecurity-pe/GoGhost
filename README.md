@@ -15,6 +15,12 @@ go build GoGhost.go
 ```    
 
 ## Usage Options
+![GoGhost Demo](https://github.com/deepsecurity-pe/GoGhost/blob/master/GoGhostGif.gif)
+
+GoGhost Scanned 25,000 IP addresses in less than 3 seconds, NMAP took more than 600.
+
+![NMAP vs GoGhost](https://github.com/deepsecurity-pe/GoGhost/blob/master/NMAP_vs_GoGhost.jpg)
+
 ### `-iL [FILE]`
 By using the -iL option you're able to specify a list file with CIDRs in file.
 
