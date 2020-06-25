@@ -15,7 +15,7 @@ go build GoGhost.go
 ```    
 
 ## Usage Options
-![GoGhost Demo](https://github.com/deepsecurity-pe/GoGhost/blob/master/GoGhostGif.gif)
+<img src="https://github.com/deepsecurity-pe/GoGhost/blob/master/GoGhostGif.gif" width="690" />
 
 GoGhost Scanned 25,000 IP addresses in less than 3 seconds, NMAP took more than 600.
 
